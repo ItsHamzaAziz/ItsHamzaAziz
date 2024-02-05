@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Welcome to my GitHub Profile where I share with you all my projects alongside my various coding ideas.<br>I am a Data Scientist, Data Analyst as well as a Full Stack Website Developer and here you can find my numerous projects regarding these domains.
+<p align="left">Welcome to my GitHub Profile where I share with you all my projects alongside my various coding ideas.<br>I am a Data Scientist, Data Analyst as well as a Full Stack Website Developer and here you can find my numerous projects regarding these domains.<br><br>Happy Coding : )</p>
 
 ###
 
