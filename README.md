@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Welcome to my GitHub Profile where I share with you all my projects alongside my various coding ideas.<br>I am a Data Scientist, Data Analyst as well as a Full Stack Website Developer and here you can find my numerous projects regarding these domains.<br><br>Happy Coding : )</p>
+<p align="left">Welcome to my GitHub Profile where I share with you all my various projects as well as at times my coding ideas.<br>I am a Data Scientist, Data Analyst as well as a Full Stack Website Developer and here you can find my projects belonging to these domains.<br><br>Happy Coding : )</p>
 
 ###
 
@@ -44,10 +44,6 @@
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
 </div>
 
 ###
