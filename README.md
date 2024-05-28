@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="center">Key Languages & Technologies</h2>
+<h2 align="left">Key Languages & Technologies</h2>
 
 ###
 
@@ -66,7 +66,7 @@
 
 ###
 
-<h2 align="center">Reach Me Out</h2>
+<h2 align="left">Reach Me Out</h2>
 
 ###
 
