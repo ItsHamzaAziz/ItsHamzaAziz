@@ -56,7 +56,7 @@
 
 ###
 
-<h3 align="left">OS</h3>
+<h3 align="left">Operating Systems</h3>
 
 ###
 
