@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="left">Key Languages & Technologies</h1>
+<h1 align="left">Key Technologies</h1>
 
 ###
 
