@@ -4,7 +4,7 @@
 
 <p align="left">
 Thank you for visiting my GitHub profile! I have moved to a new account where I actively contribute and share code.<br><br>
-🔗 <strong>Check out my latest work here:</strong><a href="https://github.com/IamHamzaAziz" target="_blank"> <b>My New GitHub Profile</b></a>
+🔗 <strong>Check out my latest work here:</strong> <a href="https://github.com/IamHamzaAziz" target="_blank"><b>My New GitHub Profile (IamHamzaAziz)</b></a>
 </p>
 
 ###
